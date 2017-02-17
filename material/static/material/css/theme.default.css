@@ -1,0 +1,22 @@
+/* Default colors */
+
+:root {
+    /* Primary colors */
+    --primary-color:                #424242;
+    --primary-color-trans:          rgba(66, 66, 66, 0.7);
+    --primary-color-light:          #686868;
+
+    /* Secondary colors */
+    --secondary-color-dark1:        #222c31;
+    --secondary-color-dark2:        #28343a;
+    --secondary-color:              #37474f;
+    --secondary-color-dark-trans:   rgba(55, 71, 79, 0.1);
+    --secondary-color-dark3:        #3f525b;
+    --secondary-color-dark4:        #41555e;
+    --secondary-color-light:        #838383;
+    --secondary-color-light1:       #999d9f;
+    --secondary-color-light2:       #9aaeb8;
+    --secondary-color-light3:       #afbfc7;
+    --secondary-color-light4:       #c7d2d8;
+    --secondary-color-light5:       #ffffff;
+}
